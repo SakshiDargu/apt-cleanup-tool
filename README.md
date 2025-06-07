@@ -1,5 +1,8 @@
 # 🧹 APT Sources Cleanup Tool
 
+[![Made by Sakshi](https://img.shields.io/badge/Created%20by-Sakshi-blue)](https://github.com/SakshiDargu)
+
+
 A simple Python utility to detect and clean up duplicate or invalid APT source entries in Debian-based systems like Ubuntu.
 
 ---
